@@ -2,10 +2,10 @@
 import streamlit as st
 
 # ページ設定（タブに表示されるタイトル、表示幅）
-st.set_page_config(page_title="タイトル", layout="wide")
+st.set_page_config(page_title="2次関数", layout="wide")
 
 # タイトルを設定
-st.title('Streamlitのサンプルアプリ')
+st.title('２次関数計算')
 
 # テキスト入力ボックスを作成し、ユーザーからの入力を受け取る
 user_input = st.text_input('あなたの名前を入力してください')
