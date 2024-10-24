@@ -20,3 +20,5 @@ if st.button('挨拶する'):
 st.write("ax+x+c=0")
 
 st.trxt_input("aに当てはまる数字を入力してください")
+st.trxt_input("bに当てはまる数字を入力してください")
+st.trxt_input("cに当てはまる数字を入力してください")
